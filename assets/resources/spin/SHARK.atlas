@@ -1,0 +1,62 @@
+
+SHARK.png
+size: 958, 297
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eye
+  rotate: true
+  xy: 888, 154
+  size: 47, 52
+  orig: 50, 54
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 5
+  size: 563, 292
+  orig: 565, 298
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 756, 147
+  size: 130, 150
+  orig: 132, 152
+  offset: 1, 1
+  index: -1
+xiaoyuqi
+  rotate: true
+  xy: 912, 70
+  size: 82, 44
+  orig: 84, 46
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: false
+  xy: 567, 4
+  size: 181, 114
+  orig: 187, 119
+  offset: 5, 1
+  index: -1
+yuqi
+  rotate: true
+  xy: 567, 120
+  size: 177, 187
+  orig: 179, 192
+  offset: 1, 4
+  index: -1
+zuiba
+  rotate: false
+  xy: 756, 20
+  size: 154, 125
+  orig: 158, 127
+  offset: 3, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 888, 203
+  size: 62, 94
+  orig: 64, 96
+  offset: 1, 1
+  index: -1
